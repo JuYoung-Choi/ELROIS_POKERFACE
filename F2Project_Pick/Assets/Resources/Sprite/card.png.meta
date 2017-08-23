@@ -1,0 +1,859 @@
+fileFormatVersion: 2
+guid: 731e8ac25d73bec45aee0de529ef7cdd
+timeCreated: 1498718333
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: card_0
+    21300002: card_1
+    21300004: card_2
+    21300006: card_3
+    21300008: card_4
+    21300010: card_5
+    21300012: card_6
+    21300014: card_7
+    21300016: card_8
+    21300018: card_9
+    21300020: card_10
+    21300022: card_11
+    21300024: card_12
+    21300026: card_13
+    21300028: card_14
+    21300030: card_15
+    21300032: card_16
+    21300034: card_17
+    21300036: card_18
+    21300038: card_19
+    21300040: card_20
+    21300042: card_21
+    21300044: card_22
+    21300046: card_23
+    21300048: card_24
+    21300050: card_25
+    21300052: card_26
+    21300054: card_27
+    21300056: card_28
+    21300058: card_29
+    21300060: card_30
+    21300062: card_31
+    21300064: card_32
+    21300066: card_33
+    21300068: card_34
+    21300070: card_35
+    21300072: card_36
+    21300074: card_37
+    21300076: card_38
+    21300078: card_39
+    21300080: card_40
+    21300082: card_41
+    21300084: card_42
+    21300086: card_43
+    21300088: card_44
+    21300090: card_45
+    21300092: card_46
+    21300094: card_47
+    21300096: card_48
+    21300098: card_49
+    21300100: card_50
+    21300102: card_51
+    21300104: card_52
+    21300106: card_53
+    21300108: card_54
+    21300110: card_55
+    21300112: card_56
+    21300114: card_57
+    21300116: card_58
+    21300118: card_59
+    21300120: card_60
+    21300122: card_61
+    21300124: card_62
+    21300126: card_63
+    21300128: card_64
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: card_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1252
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1252
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_2
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1252
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_3
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1252
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_4
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1252
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_5
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1252
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_6
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1252
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_7
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1252
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_8
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 1252
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_9
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 1252
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_10
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 1252
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_11
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 1252
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_12
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 1252
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 940
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 940
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_15
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 940
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_16
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 940
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_17
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 940
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_18
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 940
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_19
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 940
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_20
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 940
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_21
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 940
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_22
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 940
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_23
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 940
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_24
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 940
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_25
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 940
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 628
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_28
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 628
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_29
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 628
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_30
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 628
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_31
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 628
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_32
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 628
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_33
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 628
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_34
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 628
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_35
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 628
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_36
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 628
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_37
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 628
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_38
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 628
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_40
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 316
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_41
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 316
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_42
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 316
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_43
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 316
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_44
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 316
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_45
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 316
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_46
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 316
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_47
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 316
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_48
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 316
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_49
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 316
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_50
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 316
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_51
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 316
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_53
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 4
+        width: 223
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: card
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
