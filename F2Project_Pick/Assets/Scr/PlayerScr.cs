@@ -14,6 +14,8 @@ public class PlayerScr : MonoBehaviour
     bool PlayerSpot;
 	bool DealerSpot;
 
+    string testText;
+
     Vector3 m_PlayerRot;
     RaycastHit temp;
 
@@ -48,16 +50,16 @@ public class PlayerScr : MonoBehaviour
 		Debug.DrawRay(m_Cam.transform.position, m_Cam.transform.forward * 50.0f, Color.green);
 		/*
 		Vector3 angle = m_Cam.transform.forward;
-		string testText = angle.x + " " + angle.y + " " + angle.z;
+		string testText = angle.x + " " + angle.y + " " + angle.z;*/
 		T_text.text = testText;
-		*/
+		
 
 		//string testText = "asdf";
 		// 카메라의 위치에서 카메라가 바라보는 정면으로 레이를 쏴서 충돌확인
 
 		if (Physics.Raycast (m_Cam.transform.position, m_Cam.transform.forward, out temp, 200.0f)) {
 			OutlineChange (temp);
-			//testText = temp.transform.name;
+            testText = temp.transform.name;
 
 			if (tempOutlineEnable == null)
 				return;
