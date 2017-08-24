@@ -117,14 +117,23 @@ public class TypewriterEffect : MonoBehaviour
 
 	void Update ()
 	{
+		/*
+		if (Input.GetKeyDown (KeyCode.Alpha1)) 
+		{
+			mActive = true;
+			ResetToBeginning ();
+			}
+		*/	
+
 		if (!mActive) return;
 
 		if (mReset)
 		{
+			mNextChar = RealTime.time;
 			mCurrentOffset = 0;
 			mReset = false;
 			mLabel = GetComponent<UILabel>();
-			mFullText = mLabel.processedText;
+			mFullText = "Waiting for player...";
 			mFade.Clear();
 
 			if (keepFullDimensions && scrollView != null) scrollView.UpdatePosition();
@@ -136,7 +145,7 @@ public class TypewriterEffect : MonoBehaviour
 			charsPerSecond = Mathf.Max(1, charsPerSecond);
 
 			// Automatically skip all symbols
-			while (NGUIText.ParseSymbol(mFullText, ref mCurrentOffset)) { }
+			while (NGUIText.ParseSymbol(mFullText, ref mCurrentOffset)) {}
 			++mCurrentOffset;
 
 			// Periods and end-of-line characters should pause for a longer time.
@@ -169,6 +178,8 @@ public class TypewriterEffect : MonoBehaviour
 				mNextChar = RealTime.time + delay;
 			}
 			else mNextChar += delay;
+
+			Debug.Log (mNextChar + " " + RealTime.time);
 
 			if (fadeInTime != 0f)
 			{
@@ -245,7 +256,9 @@ public class TypewriterEffect : MonoBehaviour
 			current = this;
 			EventDelegate.Execute(onFinished);
 			current = null;
-			mActive = false;
+			//mActive = false;
+			mActive = true;
+			ResetToBeginning ();
 		}
 	}
 }

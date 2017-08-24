@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: c791bd5080c15744a97b5f5073d87956
+timeCreated: 1502694016
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: full_body:Head
+    100002: full_body:HeadTop_End
+    100004: full_body:Hips
+    100006: full_body:LeftArm
+    100008: full_body:LeftFoot
+    100010: full_body:LeftForeArm
+    100012: full_body:LeftHand
+    100014: full_body:LeftHandIndex1
+    100016: full_body:LeftHandIndex2
+    100018: full_body:LeftHandIndex3
+    100020: full_body:LeftHandIndex4
+    100022: full_body:LeftHandMiddle1
+    100024: full_body:LeftHandMiddle2
+    100026: full_body:LeftHandMiddle3
+    100028: full_body:LeftHandMiddle4
+    100030: full_body:LeftHandPinky1
+    100032: full_body:LeftHandPinky2
+    100034: full_body:LeftHandPinky3
+    100036: full_body:LeftHandPinky4
+    100038: full_body:LeftHandRing1
+    100040: full_body:LeftHandRing2
+    100042: full_body:LeftHandRing3
+    100044: full_body:LeftHandRing4
+    100046: full_body:LeftHandThumb1
+    100048: full_body:LeftHandThumb2
+    100050: full_body:LeftHandThumb3
+    100052: full_body:LeftHandThumb4
+    100054: full_body:LeftLeg
+    100056: full_body:LeftShoulder
+    100058: full_body:LeftToe_End
+    100060: full_body:LeftToeBase
+    100062: full_body:LeftUpLeg
+    100064: full_body:Mesh
+    100066: full_body:Neck
+    100068: full_body:RightArm
+    100070: full_body:RightFoot
+    100072: full_body:RightForeArm
+    100074: full_body:RightHand
+    100076: full_body:RightHandIndex1
+    100078: full_body:RightHandIndex2
+    100080: full_body:RightHandIndex3
+    100082: full_body:RightHandIndex4
+    100084: full_body:RightHandMiddle1
+    100086: full_body:RightHandMiddle2
+    100088: full_body:RightHandMiddle3
+    100090: full_body:RightHandMiddle4
+    100092: full_body:RightHandPinky1
+    100094: full_body:RightHandPinky2
+    100096: full_body:RightHandPinky3
+    100098: full_body:RightHandPinky4
+    100100: full_body:RightHandRing1
+    100102: full_body:RightHandRing2
+    100104: full_body:RightHandRing3
+    100106: full_body:RightHandRing4
+    100108: full_body:RightHandThumb1
+    100110: full_body:RightHandThumb2
+    100112: full_body:RightHandThumb3
+    100114: full_body:RightHandThumb4
+    100116: full_body:RightLeg
+    100118: full_body:RightShoulder
+    100120: full_body:RightToe_End
+    100122: full_body:RightToeBase
+    100124: full_body:RightUpLeg
+    100126: full_body:Spine
+    100128: full_body:Spine1
+    100130: full_body:Spine2
+    100132: //RootNode
+    400000: full_body:Head
+    400002: full_body:HeadTop_End
+    400004: full_body:Hips
+    400006: full_body:LeftArm
+    400008: full_body:LeftFoot
+    400010: full_body:LeftForeArm
+    400012: full_body:LeftHand
+    400014: full_body:LeftHandIndex1
+    400016: full_body:LeftHandIndex2
+    400018: full_body:LeftHandIndex3
+    400020: full_body:LeftHandIndex4
+    400022: full_body:LeftHandMiddle1
+    400024: full_body:LeftHandMiddle2
+    400026: full_body:LeftHandMiddle3
+    400028: full_body:LeftHandMiddle4
+    400030: full_body:LeftHandPinky1
+    400032: full_body:LeftHandPinky2
+    400034: full_body:LeftHandPinky3
+    400036: full_body:LeftHandPinky4
+    400038: full_body:LeftHandRing1
+    400040: full_body:LeftHandRing2
+    400042: full_body:LeftHandRing3
+    400044: full_body:LeftHandRing4
+    400046: full_body:LeftHandThumb1
+    400048: full_body:LeftHandThumb2
+    400050: full_body:LeftHandThumb3
+    400052: full_body:LeftHandThumb4
+    400054: full_body:LeftLeg
+    400056: full_body:LeftShoulder
+    400058: full_body:LeftToe_End
+    400060: full_body:LeftToeBase
+    400062: full_body:LeftUpLeg
+    400064: full_body:Mesh
+    400066: full_body:Neck
+    400068: full_body:RightArm
+    400070: full_body:RightFoot
+    400072: full_body:RightForeArm
+    400074: full_body:RightHand
+    400076: full_body:RightHandIndex1
+    400078: full_body:RightHandIndex2
+    400080: full_body:RightHandIndex3
+    400082: full_body:RightHandIndex4
+    400084: full_body:RightHandMiddle1
+    400086: full_body:RightHandMiddle2
+    400088: full_body:RightHandMiddle3
+    400090: full_body:RightHandMiddle4
+    400092: full_body:RightHandPinky1
+    400094: full_body:RightHandPinky2
+    400096: full_body:RightHandPinky3
+    400098: full_body:RightHandPinky4
+    400100: full_body:RightHandRing1
+    400102: full_body:RightHandRing2
+    400104: full_body:RightHandRing3
+    400106: full_body:RightHandRing4
+    400108: full_body:RightHandThumb1
+    400110: full_body:RightHandThumb2
+    400112: full_body:RightHandThumb3
+    400114: full_body:RightHandThumb4
+    400116: full_body:RightLeg
+    400118: full_body:RightShoulder
+    400120: full_body:RightToe_End
+    400122: full_body:RightToeBase
+    400124: full_body:RightUpLeg
+    400126: full_body:Spine
+    400128: full_body:Spine1
+    400130: full_body:Spine2
+    400132: //RootNode
+    4300000: full_body:Mesh
+    9500000: //RootNode
+    13700000: full_body:Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
